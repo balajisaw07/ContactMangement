@@ -130,5 +130,9 @@ Feel free to explore and use the application.
 
 <img src="./Client/Frontend/src/Images/Screenshot 2023-09-10 174841.png"></img>
 
+**##Challenges And Solution**
 
-
+Challenge: Data validation and error handling.
+Solution: Used express-validator and detailed error messages.
+Challenge: Implementing sorting and pagination.
+Solution: Used query parameters in the API and MUI Table components on the frontend.
